@@ -15,7 +15,9 @@
 
 🔹 Cloud & Hosting: AWS, Vercel, Netlify
 
+
 🎯 Interests
+
 🌍 Web Development & Design
 
 🎨 UI/UX & Interactive Interfaces
@@ -25,4 +27,5 @@
 📱 Mobile-First & Progressive Web Apps
 
 📫 Let's Connect
+
 💼 LinkedIn | 🌐 Portfolio | ✉️ Email
