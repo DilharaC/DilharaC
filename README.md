@@ -6,15 +6,23 @@
 🔹 Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
 
 🔹 Backend: Node.js, Express, Next.js
+
 🔹 Databases: MySQL, MongoDB, Firebase
+
 🔹 Design & UI/UX: Figma, Adobe XD, Framer
+
 🔹 DevOps & Tools: Git, GitHub, Docker, CI/CD
+
 🔹 Cloud & Hosting: AWS, Vercel, Netlify
 
 🎯 Interests
 🌍 Web Development & Design
+
 🎨 UI/UX & Interactive Interfaces
+
 🏗️ Scalable & Optimized Web Applications
+
 📱 Mobile-First & Progressive Web Apps
+
 📫 Let's Connect
 💼 LinkedIn | 🌐 Portfolio | ✉️ Email
