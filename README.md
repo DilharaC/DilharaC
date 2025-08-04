@@ -3,15 +3,15 @@
 
 💻 Tech Stack
 
-🔹 Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
+🔹 Frontend: HTML, CSS, JavaScript,  Tailwind CSS
 
-🔹 Backend: Node.js, Express, Next.js
+🔹 Backend: PHP, JAVA
 
-🔹 Databases: MySQL, MongoDB, Firebase
+🔹 Databases: MySQL,  Firebase
 
-🔹 Design & UI/UX: Figma, Adobe XD, Framer
+🔹 Design & UI/UX: Figma 
 
-🔹 DevOps & Tools: Git, GitHub, Docker, CI/CD
+🔹 DevOps & Tools: Git, GitHub 
 
 🔹 Cloud & Hosting: AWS, Vercel, Netlify
 
