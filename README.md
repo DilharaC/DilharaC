@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Chamuditha Dilhara
+#  Hey, I'm Chamuditha Dilhara
 
-### 💻 Software Engineering Student | Web & Mobile App Developer
+###  Software Engineering Student | Web & Mobile App Developer
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I’m a **Software Engineering Student** and **IT Executive at Concept Innovations** based in **Colombo, Sri Lanka** 🇱🇰.  
 My passion lies in developing **modern, responsive, and user-focused web applications**.  
 I focus on creating **efficient, scalable, and visually appealing systems** that solve real-world problems.  
 
 ---
 
-## 🧠 Technical Skills  
+##  Technical Skills  
 
 ### 🖥️ Frontend Development  
 - HTML5, CSS3, JavaScript  
@@ -38,7 +38,7 @@ I focus on creating **efficient, scalable, and visually appealing systems** that
 
 
 
-## 🎯 Current Learning Focus  
+##  Current Learning Focus  
 - Machine Learning Fundamentals (Python)  
 - Modern React and Component-Based UI Design  
 - Mobile App Development with React Native  
@@ -48,12 +48,7 @@ I focus on creating **efficient, scalable, and visually appealing systems** that
 
 
 
-## 📈 GitHub Overview  
 
-![Chamuditha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChamudithaDilhara&show_icons=true&theme=default&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamudithaDilhara&layout=compact&theme=default&hide_border=true)
-
----
 
 ## 📫 Contact  
 
