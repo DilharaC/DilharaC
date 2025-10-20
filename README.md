@@ -5,7 +5,7 @@
 ---
 
 ## About Me  
-I’m a **Software Engineering Student** and **IT Executive at Concept Innovations** based in **Colombo, Sri Lanka** 🇱🇰.  
+I’m a **Software Engineering Student**  
 My passion lies in developing **modern, responsive, and user-focused web applications**.  
 I focus on creating **efficient, scalable, and visually appealing systems** that solve real-world problems.  
 
@@ -52,7 +52,7 @@ I focus on creating **efficient, scalable, and visually appealing systems** that
 
 ## 📫 Contact  
 
-- **Email:** chamuditha.dilhara@example.com  
+- **Email:** chamudithadilhara985@gmail.com  
 - **LinkedIn:** [linkedin.com/in/chamuditha-dilhara](#)  
 - **GitHub:** [github.com/ChamudithaDilhara](#)
 
