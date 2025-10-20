@@ -13,41 +13,27 @@ I focus on creating **efficient, scalable, and visually appealing systems** that
 
 ##  Technical Skills  
 
-<div align="center">
+### 🖥️ Frontend Development  
+- HTML5, CSS3, JavaScript  
+- Tailwind CSS  
+- React.js *(Learning)*  
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+### ⚙️ Backend Development  
+- PHP  
+- Java  
+- Node.js *(Learning)*  
 
-      ### 🖥️ Frontend Development  
-      - HTML5, CSS3, JavaScript  
-      - Tailwind CSS  
-      - React.js *(Learning)*  
+### 🗄️ Databases  
+- MySQL  
+- Firebase  
 
-      ### ⚙️ Backend Development  
-      - PHP  
-      - Java  
-      - Node.js *(Learning)*  
+### 🧩 Tools & Technologies  
+- Git & GitHub  
+- Visual Studio Code  
+- Figma (UI/UX Design)  
+- Postman  
+- XAMPP / WAMP  
 
-    </td>
-    <td valign="top" width="50%">
-
-      ### 🗄️ Databases  
-      - MySQL  
-      - Firebase  
-
-      ### 🧩 Tools & Technologies  
-      - Git & GitHub  
-      - Visual Studio Code  
-      - Figma (UI/UX Design)  
-      - Postman  
-      - XAMPP / WAMP  
-
-    </td>
-  </tr>
-</table>
-
-</div>
 ---
 
 
@@ -72,4 +58,4 @@ I focus on creating **efficient, scalable, and visually appealing systems** that
 
 ---
 
-⭐ *"Innovation is seeing what everybody has seen and thinking what nobody has thought."*  
+⭐ *"Innovation is seeing what everybody has seen and thinking what nobody has thought."*    
