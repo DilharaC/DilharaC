@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey, I'm Chamuditha Dilhara</h1>
 
 <p align="center">
-  🚀 <b>Software Engineering Student</b> | 💼 <b>IT Executive at Concept Innovations</b> <br/>
+  🚀 <b>Software Engineering Student</b> |  <br/>
   🌐 Passionate about <b>Web Development</b>, <b>UI/UX Design</b>, and <b>System Architecture</b>
 </p>
 
@@ -45,15 +45,6 @@ I love exploring new technologies, designing seamless user interfaces, and creat
 
 ---
 
-### 💼 Experience  
-**💻 IT Executive – Concept Innovations**  
-📍 *Colombo, Sri Lanka*  
-- Managing and maintaining IT infrastructure across company branches.  
-- Supporting system architecture design for the new **Kandy branch**.  
-- Implementing secure, efficient hardware and software solutions.  
-- Contributing to automation and digital transformation initiatives.  
-
----
 
 ### 🌱 Currently Learning  
 - 🤖 Machine Learning with Python  
@@ -63,14 +54,8 @@ I love exploring new technologies, designing seamless user interfaces, and creat
 
 ---
 
-### 🚀 Projects  
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🌞 **Solar Power Website Redesign** | Full UI/UX revamp for a renewable energy company | HTML, Tailwind, JS |
-| 🛒 **E-Commerce Platform** | ASP.NET-based store with secure checkout | ASP.NET, MySQL |
-| 📱 **Productivity Tracker App** | Mobile app to boost daily efficiency | React Native, Firebase |
 
----
+
 
 ### 📊 GitHub Stats  
 
