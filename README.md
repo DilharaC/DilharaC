@@ -13,27 +13,41 @@ I focus on creating **efficient, scalable, and visually appealing systems** that
 
 ##  Technical Skills  
 
-### 🖥️ Frontend Development  
-- HTML5, CSS3, JavaScript  
-- Tailwind CSS  
-- React.js *(Learning)*  
+<div align="center">
 
-### ⚙️ Backend Development  
-- PHP  
-- Java  
-- Node.js *(Learning)*  
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-### 🗄️ Databases  
-- MySQL  
-- Firebase  
+      ### 🖥️ Frontend Development  
+      - HTML5, CSS3, JavaScript  
+      - Tailwind CSS  
+      - React.js *(Learning)*  
 
-### 🧩 Tools & Technologies  
-- Git & GitHub  
-- Visual Studio Code  
-- Figma (UI/UX Design)  
-- Postman  
-- XAMPP / WAMP  
+      ### ⚙️ Backend Development  
+      - PHP  
+      - Java  
+      - Node.js *(Learning)*  
 
+    </td>
+    <td valign="top" width="50%">
+
+      ### 🗄️ Databases  
+      - MySQL  
+      - Firebase  
+
+      ### 🧩 Tools & Technologies  
+      - Git & GitHub  
+      - Visual Studio Code  
+      - Figma (UI/UX Design)  
+      - Postman  
+      - XAMPP / WAMP  
+
+    </td>
+  </tr>
+</table>
+
+</div>
 ---
 
 
