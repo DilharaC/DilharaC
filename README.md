@@ -1,51 +1,60 @@
-# Chamuditha Dilhara
+<div align="center">
 
-Software Engineering student focused on building modern web applications from frontend to backend. I enjoy creating clean, responsive interfaces and developing systems that are practical, scalable, and user-focused.
+```
+╔══════════════════════════════════════╗
+║   CHAMUDITHA DILHARA                 ║
+║   Software Engineering Student       ║
+║   Full-Stack Developer · Sri Lanka   ║
+╚══════════════════════════════════════╝
+```
 
-Currently based in Sri Lanka and open to collaborations, internships, and freelance opportunities.
-
----
-
-## Tech Stack
-
-### Frontend
-
-React, JavaScript, HTML5, CSS3, Tailwind CSS
-
-### Backend
-
-Node.js, Laravel, PHP, Java, C# / .NET
-
-### Databases
-
-MySQL, PostgreSQL, Firebase
-
-### APIs & Backend Services
-
-REST API Development, API Integration, Swagger / OpenAPI Documentation
-
-### Tools & Workflow
-
-Git & GitHub, Figma, Postman, VS Code, XAMPP, pgAdmin
+</div>
 
 ---
 
-## Currently Learning
-
-* Advanced React patterns and state management
-* React Native for mobile application development
-* Machine Learning fundamentals with Python
-* Cloud deployment and modern hosting workflows
+I build web applications — full-stack, end to end.  
+I care about UI quality, clean architecture, and shipping things that actually work.  
+Design-first: Figma before code.
 
 ---
 
-## Work Style
+### stack
 
-I usually begin projects with design and planning before development — starting in Figma and then moving into implementation. I prefer understanding system structure and development decisions instead of copying patterns blindly. While I’m comfortable across the full stack, my strongest focus is frontend development and UI experience.
+```
+Frontend    →   React · JavaScript · Tailwind CSS · HTML/CSS
+Backend     →   Node.js · Laravel · PHP · Java · C#/.NET
+Database    →   MySQL · Firebase
+Tooling     →   Git · Figma · Postman · VS Code
+```
 
 ---
 
-## Contact
+### focus
 
-📧 [chamudithadilhara985@gmail.com](mailto:chamudithadilhara985@gmail.com)
-🔗 https://www.linkedin.com/in/dilharachamuditha/
+```
+UI / Frontend       ████████████████████░░░   strong
+Backend / APIs      ████████████████░░░░░░░   solid
+React Native        ████████░░░░░░░░░░░░░░░   learning
+ML / Python         █████░░░░░░░░░░░░░░░░░░   exploring
+```
+
+---
+
+### currently
+
+→ Deepening React — component patterns, state management, ecosystem  
+→ Moving into React Native for mobile  
+→ ML fundamentals with Python on the side  
+→ Cloud deployment beyond the basics
+
+---
+
+### reach me
+
+[![Email](https://img.shields.io/badge/email-chamudithadilhara985%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:chamudithadilhara985@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-chamuditha--dilhara-black?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamuditha-dilhara)
+[![GitHub](https://img.shields.io/badge/github-DilharaC-black?style=flat-square&logo=github&logoColor=white)](https://github.com/DilharaC)
+
+---
+
+<div align="right"><sub>building things · learning constantly · Sri Lanka</sub></div>
