@@ -1,93 +1,37 @@
-# Hey, I'm Chamuditha Dilhara 👋
+# Chamuditha Dilhara
 
-### Software Engineering Student • Full-Stack Developer • UI-Focused Creator
+Software Engineering student. I build web applications — full-stack, end to end. I care about UI quality, clean architecture, and shipping things that actually work.
 
-I’m a passionate **Software Engineering student** focused on building modern, scalable, and user-friendly digital experiences.
-I enjoy developing responsive web applications, backend systems, and real-world software solutions that combine clean design with strong functionality.
-
-My goal is to continuously improve as a developer while exploring modern technologies, cloud systems, API integrations, and intelligent applications.
+Currently based in Sri Lanka. Open to collaborations.
 
 ---
 
-# 🚀 What I Do
+## What I'm working with
 
-* Build responsive and interactive web applications
-* Develop REST APIs and backend systems
-* Create clean and modern UI/UX experiences
-* Integrate third-party APIs and services
-* Design scalable database-driven applications
-* Learn and experiment with modern technologies
+**Frontend** — React, JavaScript, HTML/CSS, Tailwind CSS  
+**Backend** — Node.js, Laravel, PHP, Java, C#/.NET  
+**Database** — MySQL, Firebase  
+**Tooling** — Git, Figma, Postman, VS Code, XAMPP
 
 ---
 
-# 🛠 Tech Stack
+## What I'm learning
 
-## 🎨 Frontend Development
-
-* HTML5
-* CSS3
-* JavaScript
-* Tailwind CSS
-* React.js 
-
-## ⚙️ Backend Development
-
-* PHP
-* Java
-* C# / .NET
-* Node.js
-* Laravel
-
-## 🔗 API & Integration
-
-* REST API Development
-* API Integration
-* JSON Handling
-* Postman
-
-## 🗄 Database & Cloud
-
-* MySQL
-* Firebase
-* Cloud Deployment Basics *(Firebase / AWS)*
-
-## 🧩 Tools & Workflow
-
-* Git & GitHub
-* Visual Studio Code
-* Figma (UI/UX Design)
-* XAMPP / WAMP
+Deepening my React knowledge (component patterns, state management, ecosystem).  
+Getting into React Native for mobile.  
+Picking up ML fundamentals with Python on the side.  
+Exploring cloud deployment beyond the basics.
 
 ---
 
-# 📚 Currently Exploring
+## How I work
 
-* React Ecosystem & Component Architecture
-* React Native Mobile App Development
-* Machine Learning Fundamentals with Python
-* Cloud Technologies & Deployment
-* System Design & API Testing
-
----
-
-# 🌟 Areas of Interest
-
-* Full-Stack Web Development
-* Modern UI/UX Design
-* AI-Powered Applications
-* Real-Time Systems
-* Performance Optimization
-* Scalable Backend Architecture
+I start with design before code — Figma first, then build. I prefer understanding *why* something is structured a certain way over copying patterns blindly. I'm comfortable across the stack but strongest on the frontend.
 
 ---
 
 
-# 📫 Connect With Me
+## Get in touch
 
-* 📧 Email: **[chamudithadilhara985@gmail.com](mailto:chamudithadilhara985@gmail.com)**
-* 💼 LinkedIn: **linkedin.com/in/chamuditha-dilhara**
-* 💻 GitHub: **github.com/DilharaC**
-
----
-
-> *“Great software is not just built to function — it’s built to create impact.”*
+chamudithadilhara985@gmail.com  
+[linkedin.com/in/chamuditha-dilhara](https://linkedin.com/in/chamuditha-dilhara)
