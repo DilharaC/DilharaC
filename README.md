@@ -1,29 +1,16 @@
 
-<div align="center">
+<h1 align="center">Chamuditha Dilhara</h1>
 
-# Chamuditha Dilhara
+<p align="center">
+  Software Engineering Student • Full-Stack Developer
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineering+Student;React+%7C+Laravel+%7C+.NET;REST+API+Developer" />
-
-<br/>
-
-<a href="mailto:chamudithadilhara985@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://linkedin.com/in/chamuditha-dilhara">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="https://github.com/DilharaC">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://dilharac.github.io/Dilhara-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="mailto:chamudithadilhara985@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/chamuditha-dilhara">LinkedIn</a> •
+  <a href="https://github.com/DilharaC">GitHub</a> •
+  <a href="https://dilharac.github.io/Dilhara-portfolio/">Portfolio</a>
+</p>
 
 ---
 
@@ -31,72 +18,81 @@
 
 Full-stack developer focused on building clean, responsive, and scalable web applications.
 
-I enjoy combining modern UI design with practical backend systems and REST API development.
+Interested in frontend architecture, backend systems, REST API development, and modern UI/UX design.
+
+I enjoy building practical products with maintainable code and user-focused experiences.
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
-</p>
+```txt
+React • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS
+````
 
 ### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,laravel,php,java,cs,dotnet" />
-</p>
+
+```txt
+Node.js • Laravel • PHP • Java • C# • .NET
+```
 
 ### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
-</p>
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
+```txt
+MySQL • PostgreSQL • Firebase
+```
+
+### APIs & Tools
+
+```txt
+REST APIs • Swagger/OpenAPI • Git • GitHub • Postman • Figma • VS Code
+```
 
 ---
 
 ## Current Focus
 
-- React & state management
-- REST API architecture
-- React Native
-- Machine Learning fundamentals
-- Cloud deployment
+* React ecosystem & state management
+* REST API architecture & integrations
+* React Native mobile development
+* Machine Learning fundamentals with Python
+* Cloud deployment & backend scalability
 
 ---
 
 ## Featured Projects
 
-| Project | Stack |
-|---|---|
-| School Donation Platform | React • Laravel • MySQL |
-| PahanaEdu Billing System | Java • MySQL |
-| Gym Website | PHP • Tailwind |
-| Gym Calorie Counter | JavaScript • HTML/CSS |
+| Project                  | Description                                                 | Stack                   |
+| ------------------------ | ----------------------------------------------------------- | ----------------------- |
+| School Donation Platform | Transparent donation platform with secure payment workflows | React • Laravel • MySQL |
+| PahanaEdu Billing System | Billing & inventory management system                       | Java • MySQL            |
+| Gym Website              | Responsive fitness website with modern UI                   | PHP • Tailwind CSS      |
+| Gym Calorie Counter      | Nutrition and calorie tracking application                  | JavaScript • HTML/CSS   |
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DilharaC&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DilharaC&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilharaC&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilharaC&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=DilharaC&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=DilharaC&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-<div align="center">
+## Work Style
 
-### Build clean. Build practical. Keep learning.
+```txt
+Design first.
+Build clean.
+Keep improving.
+```
 
-</div>
+```
 ```
