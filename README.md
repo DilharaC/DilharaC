@@ -1,60 +1,87 @@
-<div align="center">
+<h1 align="left">Chamuditha<br>Dilhara</h1>
 
-```
-╔══════════════════════════════════════╗
-║   CHAMUDITHA DILHARA                 ║
-║   Software Engineering Student       ║
-║   Full-Stack Developer · Sri Lanka   ║
-╚══════════════════════════════════════╝
-```
-
-</div>
+<p>
+  <code>SOFTWARE ENGINEERING STUDENT</code> · <code>SRI LANKA</code>
+</p>
 
 ---
 
-I build web applications — full-stack, end to end.  
-I care about UI quality, clean architecture, and shipping things that actually work.  
-Design-first: Figma before code.
+### ABOUT
+
+Full-stack developer. I build web applications end to end and care about UI quality as much as backend correctness.  
+Design-first — Figma before code.
 
 ---
 
-### stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```
-Frontend    →   React · JavaScript · Tailwind CSS · HTML/CSS
-Backend     →   Node.js · Laravel · PHP · Java · C#/.NET
-Database    →   MySQL · Firebase
-Tooling     →   Git · Figma · Postman · VS Code
-```
+### STACK
+
+<p>
+  <code>React</code>
+  <code>Node.js</code>
+  <code>Laravel</code>
+  <code>PHP</code>
+  <code>Java</code>
+  <code>C# .NET</code>
+  <code>Tailwind</code>
+  <code>MySQL</code>
+  <code>PostgreSQL</code>
+  <code>Firebase</code>
+  <code>REST APIs</code>
+  <code>Swagger</code>
+  <code>Figma</code>
+  <code>Git</code>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### FOCUS
+
+| Area | Level |
+|---|---|
+| UI / Frontend | strong |
+| Backend / APIs | solid |
+| React Native | learning |
+| ML / Python | exploring |
+
+</td>
+</tr>
+</table>
 
 ---
 
-### focus
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```
-UI / Frontend       ████████████████████░░░   strong
-Backend / APIs      ████████████████░░░░░░░   solid
-React Native        ████████░░░░░░░░░░░░░░░   learning
-ML / Python         █████░░░░░░░░░░░░░░░░░░   exploring
-```
+### CURRENTLY
 
----
+→ React patterns & state management  
+→ React Native for mobile  
+→ ML fundamentals with Python  
+→ Cloud deployment  
 
-### currently
+</td>
+<td width="50%" valign="top">
 
-→ Deepening React — component patterns, state management, ecosystem  
-→ Moving into React Native for mobile  
-→ ML fundamentals with Python on the side  
-→ Cloud deployment beyond the basics
+### AT A GLANCE
 
----
+| 3 | 3 | 6+ |
+|---|---|---|
+| stacks | years in tech | tools |
 
-### reach me
-
-[![Email](https://img.shields.io/badge/email-chamudithadilhara985%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:chamudithadilhara985@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-chamuditha--dilhara-black?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamuditha-dilhara)
-[![GitHub](https://img.shields.io/badge/github-DilharaC-black?style=flat-square&logo=github&logoColor=white)](https://github.com/DilharaC)
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="right"><sub>building things · learning constantly · Sri Lanka</sub></div>
+### REACH ME
+
+[Email](mailto:chamudithadilhara985@gmail.com) · 
+[LinkedIn](https://linkedin.com/in/chamuditha-dilhara) · 
+[GitHub](https://github.com/DilharaC)
