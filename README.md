@@ -48,4 +48,4 @@ I usually begin projects with design and planning before development — startin
 ## Contact
 
 📧 [chamudithadilhara985@gmail.com](mailto:chamudithadilhara985@gmail.com)
-🔗 https://linkedin.com/in/chamuditha-dilhara
+🔗 https://www.linkedin.com/in/dilharachamuditha/
